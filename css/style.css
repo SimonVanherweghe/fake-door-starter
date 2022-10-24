@@ -1,3 +1,5 @@
+@import url("./reset.css");
+
 html {
   box-sizing: border-box;
 }
@@ -23,8 +25,6 @@ body {
   place-items: center;
 
   padding: .5rem;
-
-  color: red;
 }
 
 h1 {
